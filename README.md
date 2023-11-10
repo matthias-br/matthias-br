@@ -1,10 +1,12 @@
-![githubprofilehi](https://github.com/matthias-br/matthias-br/assets/150298117/3d8616ee-3e41-46d4-bd53-0a86e1fcfd35)
 
-**Sociologist**
+**Hi, I'm Matthias**
 
 🔍 special interest in the sociology of climate change
 
-⌨️ doing things in R
+💻 doing things in R
+
+🔗 check out [my page](https://matthias-br.github.io/)
+
 <!--**matthias-br/matthias-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
