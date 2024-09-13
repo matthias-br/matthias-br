@@ -1,7 +1,7 @@
 
 **Hi, I'm Matthias**
 
-🔍 special interest in the sociology of climate change
+🔍 special interest in computational social sciences and the sociology of climate change
 
 💻 doing things in R
 
